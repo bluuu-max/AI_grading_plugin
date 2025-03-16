@@ -7,7 +7,7 @@ import re
 from openai import OpenAI
 
 client = OpenAI(
-    api_key = "sk-4mnSOwGqeVk97hpTa7N63ri83fIaFB3wLDp3mEefTxCHuRT3",
+    api_key = "your_kimi_api_key",
     base_url =  "https://api.moonshot.cn/v1"
 )
 
